@@ -1,5 +1,5 @@
-# Enable syntax highlighting
+" Kolorowanie składni języka
 syntax on
 
-# Display line numbers
+" Numerowanie wierszy
 set number
